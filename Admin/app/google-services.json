@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "1034195134414",
+    "project_id": "graduate-project-c9979",
+    "storage_bucket": "graduate-project-c9979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034195134414:android:47946abc3b06d9a364ad9f",
+        "android_client_info": {
+          "package_name": "com.sarmed.my_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034195134414-bn8ql6m3hgmj9455k03g7gfuj3cibap1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKb1U9a-FVkFgNix_P47yjmsEZGFNYh0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034195134414-bn8ql6m3hgmj9455k03g7gfuj3cibap1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034195134414:android:799a88ffa8ef4b9b64ad9f",
+        "android_client_info": {
+          "package_name": "dev.mah.nassa.grad_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034195134414-hkeqtmj0i597bfuia9lpikq3oh11k87r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.mah.nassa.grad_project",
+            "certificate_hash": "abf70070859521d038c9d07bdf8124363e3adcf6"
+          }
+        },
+        {
+          "client_id": "1034195134414-bn8ql6m3hgmj9455k03g7gfuj3cibap1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKb1U9a-FVkFgNix_P47yjmsEZGFNYh0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034195134414-bn8ql6m3hgmj9455k03g7gfuj3cibap1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034195134414:android:97bf9269b322d5ec64ad9f",
+        "android_client_info": {
+          "package_name": "dev.mah.nassa.gradu_ptojects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034195134414-3vp067usbam55ngbolneo3vgp9va9iae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.mah.nassa.gradu_ptojects",
+            "certificate_hash": "abf70070859521d038c9d07bdf8124363e3adcf6"
+          }
+        },
+        {
+          "client_id": "1034195134414-bn8ql6m3hgmj9455k03g7gfuj3cibap1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKb1U9a-FVkFgNix_P47yjmsEZGFNYh0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034195134414-bn8ql6m3hgmj9455k03g7gfuj3cibap1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
